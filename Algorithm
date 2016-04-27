@@ -1,0 +1,4 @@
+1. Get command line parameters
+2. Change a folder to specified. Get the list of all files and folders in our SEARCH_DIR (current or specified in args) (and separate them of course)
+3. Find SEARCHSTRING in file names. Put found results into results list.
+4. Make a recursive search in list of folders.
